@@ -1,0 +1,6 @@
+@APSTUnitTesting_HostAddress = http://localhost:5232
+
+GET {{APSTUnitTesting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
